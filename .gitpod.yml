@@ -1,0 +1,5 @@
+image: php
+
+tasks:
+  - name: Environment Ready Commands
+    command: sudo apt update && sudo apt upgrade
