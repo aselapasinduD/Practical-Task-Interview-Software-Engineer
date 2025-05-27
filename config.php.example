@@ -1,0 +1,10 @@
+<?php
+
+# Define Database Configure.
+define('DB_HOST', '');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASSWORD', '');
+
+# Define Root Folder
+define('ROOT_DIR', $_SERVER["DOCUMENT_ROOT"] . "/../");
