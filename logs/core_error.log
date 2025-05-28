@@ -1,0 +1,300 @@
+[2025-05-28 04:00:48] [WARNING] Error Message
+[2025-05-28 04:00:49] [WARNING] Error Message
+[2025-05-28 04:00:50] [WARNING] Error Message
+[2025-05-28 04:02:53] [WARNING] Error Message
+[2025-05-28 04:02:53] [WARNING] Error Message
+[2025-05-28 04:02:55] [WARNING] Error Message
+[2025-05-28 04:03:25] [WARNING] Error Message
+[2025-05-28 04:03:27] [WARNING] Error Message
+[2025-05-28 04:03:27] [WARNING] Error Message
+[2025-05-28 04:03:54] [ERROR] Error Message
+[2025-05-28 04:03:56] [ERROR] Error Message
+[2025-05-28 04:03:56] [ERROR] Error Message
+[2025-05-28 04:04:31] [WARNING] Error Message
+[2025-05-28 04:04:32] [WARNING] Error Message
+[2025-05-28 04:04:32] [WARNING] Error Message
+[2025-05-28 04:05:06] [ERROR] Error Message
+[2025-05-28 04:05:14] [ERROR] Error Message
+[2025-05-28 04:05:14] [ERROR] Error Message
+[2025-05-28 04:08:18] [ERROR] 1
+[2025-05-28 04:08:19] [ERROR] 1
+[2025-05-28 04:08:20] [ERROR] 1
+[2025-05-28 05:02:53] [ERROR] 1
+[2025-05-28 05:02:54] [ERROR] 1
+[2025-05-28 05:08:07] [ERROR] 1
+[2025-05-28 05:08:07] [ERROR] 1
+[2025-05-28 05:08:36] [ERROR] /
+[2025-05-28 05:08:36] [ERROR] /favicon.ico
+[2025-05-28 05:18:16] [ERROR] /
+[2025-05-28 05:18:16] [ERROR] URL: /, METHOD: GET.
+[2025-05-28 05:18:17] [ERROR] /favicon.ico
+[2025-05-28 05:18:17] [ERROR] URL: /favicon.ico, METHOD: GET.
+[2025-05-28 05:18:32] [ERROR] /
+[2025-05-28 05:18:32] [ERROR] URL: /, METHOD: POST.
+[2025-05-28 05:19:16] [ERROR] /
+[2025-05-28 05:19:16] [ERROR] URL: /, METHOD: GET.
+[2025-05-28 05:19:16] [ERROR] /favicon.ico
+[2025-05-28 05:19:16] [ERROR] URL: /favicon.ico, METHOD: GET.
+[2025-05-28 05:19:47] [ERROR] /test
+[2025-05-28 05:19:47] [ERROR] URL: /test, METHOD: GET.
+[2025-05-28 05:31:10] [ERROR] /test
+[2025-05-28 05:31:10] [ERROR] URL: /test , METHOD: GET - .
+[2025-05-28 05:31:42] [ERROR] /test
+[2025-05-28 05:31:42] [ERROR] URL: /test - , METHOD: POST - .
+[2025-05-28 05:31:51] [ERROR] /test
+[2025-05-28 05:31:51] [ERROR] URL: /test - , METHOD: HEAD - .
+[2025-05-28 05:33:22] [ERROR] /test
+[2025-05-28 05:33:22] [ERROR] URL: /test - , METHOD: HEAD - .
+[2025-05-28 05:33:33] [ERROR] /test
+[2025-05-28 05:33:33] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 05:33:53] [ERROR] /test
+[2025-05-28 05:33:53] [ERROR] URL: /test - , METHOD: POST - 1.
+[2025-05-28 05:34:03] [ERROR] /
+[2025-05-28 05:34:03] [ERROR] URL: / - 1, METHOD: POST - 1.
+[2025-05-28 05:37:59] [ERROR] /
+[2025-05-28 05:37:59] [ERROR] URL: / - 1, METHOD: POST - 1.
+[2025-05-28 05:43:18] [ERROR] /
+[2025-05-28 05:43:18] [ERROR] URL: / - , METHOD: POST - .
+[2025-05-28 05:43:38] [ERROR] /
+[2025-05-28 05:43:38] [ERROR] URL: / - , METHOD: GET - .
+[2025-05-28 05:45:35] [ERROR] /
+[2025-05-28 05:45:35] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 05:45:48] [ERROR] /
+[2025-05-28 05:45:48] [ERROR] URL: / - 1, METHOD: POST - 1.
+[2025-05-28 05:45:56] [ERROR] /
+[2025-05-28 05:45:56] [ERROR] URL: / - , METHOD: PUT - .
+[2025-05-28 05:47:01] [ERROR] /
+[2025-05-28 05:47:01] [ERROR] URL: / - , METHOD: DELETE - .
+[2025-05-28 05:47:53] [ERROR] /
+[2025-05-28 05:47:53] [ERROR] URL: / - 1, METHOD: DELETE - 1.
+[2025-05-28 05:49:32] [ERROR] /
+[2025-05-28 05:49:32] [ERROR] URL: / - 1, METHOD: DELETE - 1.
+[2025-05-28 05:50:40] [ERROR] /
+[2025-05-28 05:50:40] [ERROR] URL: / - , METHOD: DELETE - .
+[2025-05-28 05:50:55] [ERROR] /
+[2025-05-28 05:50:55] [ERROR] URL: / - , METHOD: DELETE - .
+[2025-05-28 05:51:03] [ERROR] /
+[2025-05-28 05:51:03] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 05:51:11] [ERROR] /
+[2025-05-28 05:51:11] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 05:51:21] [ERROR] /
+[2025-05-28 05:51:21] [ERROR] URL: / - 1, METHOD: POST - 1.
+[2025-05-28 05:51:34] [ERROR] /test
+[2025-05-28 05:51:34] [ERROR] URL: /test - , METHOD: POST - 1.
+[2025-05-28 05:53:05] [ERROR] /test
+[2025-05-28 05:53:05] [ERROR] URL: /test - , METHOD: POST - 1.
+[2025-05-28 05:54:06] [ERROR] /test
+[2025-05-28 05:54:06] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 05:54:48] [ERROR] /test
+[2025-05-28 05:54:48] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 05:54:53] [ERROR] /test
+[2025-05-28 05:54:53] [ERROR] URL: /test - , METHOD: POST - 1.
+[2025-05-28 07:26:46] [ERROR] /
+[2025-05-28 07:26:46] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:26:47] [ERROR] /favicon.ico
+[2025-05-28 07:26:47] [ERROR] URL: /favicon.ico - , METHOD: GET - 1.
+[2025-05-28 07:27:46] [ERROR] /
+[2025-05-28 07:27:46] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:27:46] [ERROR] /favicon.ico
+[2025-05-28 07:27:46] [ERROR] URL: /favicon.ico - , METHOD: GET - 1.
+[2025-05-28 07:28:13] [ERROR] /test
+[2025-05-28 07:28:13] [ERROR] URL: /test - , METHOD: POST - 1.
+[2025-05-28 07:31:25] [ERROR] /test
+[2025-05-28 07:31:25] [ERROR] URL: /test - , METHOD: POST - 1.
+[2025-05-28 07:33:26] [ERROR] /test
+[2025-05-28 07:33:26] [ERROR] URL: /test - 1, METHOD: POST - .
+[2025-05-28 07:33:26] [ERROR] METHOD: [POST] Not Allowed in this for this URL: [/test] 
+[2025-05-28 07:34:39] [ERROR] /
+[2025-05-28 07:34:39] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:34:39] [ERROR] /favicon.ico
+[2025-05-28 07:34:39] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-28 07:34:39] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-28 07:36:33] [ERROR] /test
+[2025-05-28 07:36:33] [ERROR] URL: /test - 1, METHOD: POST - .
+[2025-05-28 07:36:33] [ERROR] METHOD: [POST] Not Allowed in this for this ROUTE: [/test] 
+[2025-05-28 07:36:37] [ERROR] /
+[2025-05-28 07:36:37] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:36:37] [ERROR] /favicon.ico
+[2025-05-28 07:36:37] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-28 07:36:37] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-28 07:36:57] [ERROR] /.well-known/appspecific/com.chrome.devtools.json
+[2025-05-28 07:36:57] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 07:36:57] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 07:37:22] [ERROR] /
+[2025-05-28 07:37:22] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:37:23] [ERROR] /.well-known/appspecific/com.chrome.devtools.json
+[2025-05-28 07:37:23] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 07:37:23] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 07:37:38] [ERROR] /
+[2025-05-28 07:37:38] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:37:39] [ERROR] /.well-known/appspecific/com.chrome.devtools.json
+[2025-05-28 07:37:39] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 07:37:39] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 07:37:39] [ERROR] /
+[2025-05-28 07:37:39] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:37:40] [ERROR] /.well-known/appspecific/com.chrome.devtools.json
+[2025-05-28 07:37:40] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 07:37:40] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 07:38:13] [ERROR] /
+[2025-05-28 07:38:13] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:38:15] [ERROR] /.well-known/appspecific/com.chrome.devtools.json
+[2025-05-28 07:38:15] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 07:38:15] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 07:38:19] [ERROR] /
+[2025-05-28 07:38:19] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 07:38:21] [ERROR] /.well-known/appspecific/com.chrome.devtools.json
+[2025-05-28 07:38:21] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 07:38:21] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 07:39:23] [ERROR] /test
+[2025-05-28 07:39:23] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 07:39:29] [ERROR] /test
+[2025-05-28 07:39:29] [ERROR] URL: /test - 1, METHOD: POST - .
+[2025-05-28 07:39:29] [ERROR] METHOD: [POST] Not Allowed in this for this ROUTE: [/test] 
+[2025-05-28 07:56:43] [ERROR] /test
+[2025-05-28 07:56:43] [ERROR] URL: /test - 1, METHOD: POST - .
+[2025-05-28 07:56:43] [ERROR] METHOD: [POST] Not Allowed in this for this ROUTE: [/test] 
+[2025-05-28 07:56:49] [ERROR] /test
+[2025-05-28 07:56:49] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 07:57:26] [ERROR] /test
+[2025-05-28 07:57:26] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 07:59:16] [ERROR] /test
+[2025-05-28 07:59:16] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:01:03] [ERROR] /test
+[2025-05-28 08:01:03] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:01:42] [ERROR] /dashboard
+[2025-05-28 08:01:42] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:01:57] [ERROR] /test
+[2025-05-28 08:01:57] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:04:18] [ERROR] URL: /test - 1, METHOD: POST - .
+[2025-05-28 08:04:18] [ERROR] METHOD: [POST] Not Allowed in this for this ROUTE: [/test] 
+[2025-05-28 08:04:24] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:07:14] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:09:42] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:10:09] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:10:40] [ERROR] URL: /test - 1, METHOD: GET - 1.
+[2025-05-28 08:10:40] [ERROR] Testing Routers is working.
+[2025-05-28 08:20:25] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:21:41] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:23:09] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:23:50] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:23:50] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 08:23:50] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 08:24:07] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:24:07] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 08:24:07] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 08:24:40] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:24:40] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 08:24:40] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 08:32:49] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:32:49] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 08:32:49] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 08:34:40] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:34:41] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 08:34:41] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 08:35:14] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 08:35:15] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-28 08:35:15] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-28 09:28:59] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 09:28:59] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Undifined Controller Methods: [view].
+[2025-05-28 09:30:16] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 09:30:16] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Undifined Controller Methods: [view].
+[2025-05-28 09:32:43] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 09:32:43] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 09:33:23] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 09:33:23] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 09:35:56] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 09:35:56] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:45:56] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:45:56] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:49:18] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:49:18] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:49:45] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:49:45] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:50:12] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 10:50:31] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:50:31] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:52:16] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:52:16] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:53:02] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:53:02] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 10:53:08] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 10:53:08] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:11:09] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:11:09] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:11:27] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:11:27] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:11:37] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:11:37] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:11:40] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:11:40] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:11:58] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:11:58] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:12:00] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:12:00] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:14:50] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:15:26] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:15:47] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:15:51] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:16:02] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:16:02] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:16:18] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:16:33] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:17:48] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:17:51] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:17:58] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:18:03] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:19:22] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:19:25] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:19:43] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:19:43] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:20:13] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:20:17] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:20:20] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:27:44] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:27:44] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:44:05] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 11:44:20] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-28 11:44:25] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:44:25] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Controller class Couldn't find for this Moduler: [Admin/Dashboard]
+[2025-05-28 11:44:33] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:44:33] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Controller class Couldn't find for this Moduler: [Admin/Dashboard]
+[2025-05-28 11:55:17] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:55:17] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:57:19] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:57:19] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:58:03] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:58:03] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:58:16] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:58:16] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:58:20] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:58:20] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:58:27] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:58:27] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 11:58:44] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 11:58:44] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:00:23] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:00:23] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:00:36] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:00:36] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:00:40] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:00:40] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:00:53] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:00:53] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:00:57] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:00:57] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:01:41] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:01:41] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:03:29] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:03:29] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - method does not exist in the Controller class: [view].
+[2025-05-28 12:04:09] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:04:09] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Controller class Couldn't find for this Moduler: [Admin/Dashboard]
+[2025-05-28 12:04:14] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:04:14] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Controller class Couldn't find for this Moduler: [Admin/Dashboard]
+[2025-05-28 12:04:17] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:04:17] [ERROR] METHOD: [GET], ROUTE: [/dashboard] - Controller class Couldn't find for this Moduler: [Admin/Dashboard]
+[2025-05-28 12:05:19] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:05:58] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:06:02] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:11:49] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-28 12:11:56] [ERROR] URL: /mainlayout - 1, METHOD: GET - 1.
+[2025-05-28 12:20:16] [ERROR] URL: /mainlayout - 1, METHOD: GET - 1.
