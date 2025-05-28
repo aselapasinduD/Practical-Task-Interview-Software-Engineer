@@ -1,3 +1,5 @@
 tasks:
   - name: Environment Ready Commands
     command: sudo apt update && sudo apt upgrade -y
+  - name: Start PHP Development Server
+    command: php -S 0.0.0.0:8000 -t /workspace/Practical-Task-Interview-Software-Engineer/public
