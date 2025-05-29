@@ -1,0 +1,357 @@
+[2025-05-29 11:37:51] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-29 11:38:00] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-29 11:38:00] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:38:00] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:42:00] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:42:00] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:42:06] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-29 11:42:07] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:42:07] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:42:09] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:42:09] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:53:09] [ERROR] URL: /login - 1, METHOD: GET - .
+[2025-05-29 11:53:09] [ERROR] METHOD: [GET] Not Allowed in this for this ROUTE: [/login]
+[2025-05-29 11:53:10] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:53:10] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:53:31] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 11:53:31] [ERROR] URL: /styles.css - , METHOD: GET - .
+[2025-05-29 11:53:31] [ERROR] ROUTE: [/styles.css] Not Found.
+[2025-05-29 11:53:33] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 11:53:33] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 11:53:34] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:53:34] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:53:45] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 11:53:46] [ERROR] URL: /styles.css - , METHOD: GET - .
+[2025-05-29 11:53:46] [ERROR] ROUTE: [/styles.css] Not Found.
+[2025-05-29 11:53:46] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 11:53:46] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 11:53:47] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:53:47] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 11:57:26] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-29 11:57:26] [ERROR] URL: /styles.css - , METHOD: GET - .
+[2025-05-29 11:57:26] [ERROR] ROUTE: [/styles.css] Not Found.
+[2025-05-29 11:57:28] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 11:57:28] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 11:57:33] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 11:57:33] [ERROR] URL: /styles.css - , METHOD: GET - .
+[2025-05-29 11:57:33] [ERROR] ROUTE: [/styles.css] Not Found.
+[2025-05-29 11:57:34] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 11:57:34] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 11:57:36] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 11:57:36] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:00:07] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:00:07] [ERROR] URL: /styles.css - , METHOD: GET - .
+[2025-05-29 12:00:07] [ERROR] ROUTE: [/styles.css] Not Found.
+[2025-05-29 12:00:09] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:00:09] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:00:13] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:00:13] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:00:19] [ERROR] URL: /styles.css - , METHOD: GET - .
+[2025-05-29 12:00:19] [ERROR] ROUTE: [/styles.css] Not Found.
+[2025-05-29 12:00:20] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:00:20] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:08:40] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:08:41] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:08:41] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:08:46] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:08:46] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:09:01] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:09:01] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:09:29] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:09:31] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:09:31] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:09:31] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:09:31] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:09:34] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:09:34] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:09:39] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:09:41] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:09:41] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:09:41] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:09:41] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:09:46] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:09:46] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:11:21] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:11:25] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:11:25] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:11:25] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:11:25] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:11:29] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:11:29] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:12:00] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:12:02] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:12:02] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:12:02] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:12:02] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:12:05] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:12:05] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:12:41] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:12:43] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:12:43] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:12:43] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:12:43] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:12:46] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:12:46] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:13:14] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:13:16] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:13:16] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:13:16] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:13:16] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:13:19] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:13:19] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:13:43] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:13:45] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:13:45] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:13:50] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:13:50] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:13:50] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:13:50] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:25:19] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:25:21] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:25:21] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:25:23] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:25:23] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:29:50] [ERROR] URL: /dashboard - 1, METHOD: GET - 1.
+[2025-05-29 12:29:51] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:29:51] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:29:53] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:29:53] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:31:42] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:31:43] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:31:43] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:31:58] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:31:58] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:39:39] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:39:43] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:39:43] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:39:43] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 12:39:43] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 12:39:45] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:39:45] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 12:40:08] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 12:40:10] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 12:40:10] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 12:40:12] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 12:40:12] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:02:14] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:02:16] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:02:16] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:02:21] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:02:21] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:09:35] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:09:36] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:09:36] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:09:38] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:09:38] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:09:40] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:09:40] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:42:22] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:42:24] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:42:24] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:42:24] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:42:24] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:42:27] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:42:27] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:43:19] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:43:21] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:43:21] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:43:21] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:43:21] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:43:23] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:43:23] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:43:51] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:43:52] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:43:52] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:43:53] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:43:53] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:43:55] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:43:55] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:44:05] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:44:07] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:44:07] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:44:07] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:44:07] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:44:08] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:44:08] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:44:21] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:44:22] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:44:22] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:44:23] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:44:23] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:44:26] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:44:26] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:46:53] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:46:55] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:46:55] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:49:04] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:49:05] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:49:05] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:49:06] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:49:06] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:49:09] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:49:09] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:51:42] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:51:45] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:51:45] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:51:48] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:51:48] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:51:49] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:51:49] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:52:30] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:52:31] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:52:31] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:52:33] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:52:33] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:52:38] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:52:38] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:54:33] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:54:33] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:54:33] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:54:35] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:54:35] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:54:41] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:54:41] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:55:55] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:55:57] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:55:57] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:55:57] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:55:57] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:56:00] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:56:00] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:56:42] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:56:44] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:56:44] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:56:44] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:56:44] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:56:48] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:56:48] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 13:58:16] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:58:18] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:58:18] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:58:22] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 13:58:24] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 13:58:24] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 13:58:24] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 13:58:24] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 13:58:28] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 13:58:28] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:00:14] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:00:16] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:00:16] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:00:33] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:00:34] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:00:34] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:00:43] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:00:45] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:00:45] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:00:45] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:00:45] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:00:48] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:00:48] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:01:23] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:01:23] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:02:38] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:02:40] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:02:40] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:02:40] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:02:40] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:02:42] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:02:42] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:03:23] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:03:27] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:03:27] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:03:27] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:03:27] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:03:35] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:03:35] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:04:00] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:04:02] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:04:02] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:04:48] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:04:50] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:04:50] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:05:00] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:05:02] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:05:02] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:05:02] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:05:02] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:05:06] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:05:06] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:05:27] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:05:29] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:05:29] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:05:33] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:05:34] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:05:34] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:05:34] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:05:34] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:05:36] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:05:36] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:07:07] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:07:09] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:07:09] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:07:09] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:07:09] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:07:14] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:07:14] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:07:40] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:07:42] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:07:42] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:07:42] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:07:42] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:07:45] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:07:45] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:09:20] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:09:20] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:09:20] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:09:21] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:09:21] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:09:28] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:09:28] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:09:59] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:10:01] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:10:01] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:10:01] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:10:01] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:10:03] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:10:03] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:10:14] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:10:15] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:10:15] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:10:16] [ERROR] URL: /script.js - , METHOD: GET - .
+[2025-05-29 14:10:16] [ERROR] ROUTE: [/script.js] Not Found.
+[2025-05-29 14:10:22] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:10:22] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:11:09] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:11:11] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:11:11] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:11:14] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:11:14] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:11:52] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:11:54] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:11:54] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:11:57] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:11:57] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:48:02] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:48:05] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:48:05] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:48:09] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:48:09] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:49:24] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:49:27] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:49:27] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:49:52] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:49:52] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:49:57] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:50:04] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:50:04] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:50:26] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:50:26] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 14:51:02] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 14:51:04] [ERROR] URL: /.well-known/appspecific/com.chrome.devtools.json - , METHOD: GET - .
+[2025-05-29 14:51:04] [ERROR] ROUTE: [/.well-known/appspecific/com.chrome.devtools.json] Not Found.
+[2025-05-29 14:51:09] [ERROR] URL: /favicon.ico - , METHOD: GET - .
+[2025-05-29 14:51:09] [ERROR] ROUTE: [/favicon.ico] Not Found.
+[2025-05-29 15:07:37] [ERROR] URL: / - 1, METHOD: GET - 1.
+[2025-05-29 15:07:43] [ERROR] URL: /login - 1, METHOD: GET - 1.
+[2025-05-29 15:07:46] [ERROR] URL: /login - 1, METHOD: GET - 1.

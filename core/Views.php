@@ -64,13 +64,6 @@ class Views{
             include $tempViewPath;
             return ob_get_clean();
         }
-
-
-        // extract($data, EXTR_SKIP);
-        // ob_start();
-        // include $viewFile;
-        // return ob_get_clean();
-
     }
 
     /**
