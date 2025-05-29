@@ -8,8 +8,21 @@ namespace Core;
  * @since 1.0.0
  */
 class Views{
-    public static function render()
+    public static function render(string $modulePath, $data = [])
     {
-        return "Hello World! Asela";
+        $viewFile = $modulePath . '/view.phtml';
+        
+        if (!file_exists($viewFile)) {
+            trigger_error("View file not found: " . $viewFile, E_USER_ERROR);
+            exit;
+        }
+
+        // Extract $data to variables
+        extract($data, EXTR_SKIP);
+
+        // Start output buffering
+        ob_start();
+        include $viewFile;
+        return ob_get_clean();
     }
 }
