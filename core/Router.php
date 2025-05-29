@@ -3,8 +3,6 @@
 namespace Core;
 
 use Core\Helpers;
-use RecursiveIteratorIterator;
-use RecursiveDirectoryIterator;
 
 /**
  * Router Core Class
@@ -13,7 +11,7 @@ use RecursiveDirectoryIterator;
  */
 class Router{
     private array $routes;
-    private bool $installed;
+    // private bool $installed;
     private $routeFound;
     private $methodFound;
 
