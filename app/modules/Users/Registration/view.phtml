@@ -1,0 +1,68 @@
+@layout(MainLayout>view)
+
+@inlet(title)
+User Registration
+@endinlet
+
+@inlet(content)
+<section class="vh-100">
+  <div class="container-fluid h-100">
+    <div class="row h-100">
+      <div class="col-md-6 d-flex flex-column justify-content-center align-items-center text-black">
+
+        <div class="px-5 ms-xl-4">
+          <h1 class="h1 fw-bold mb-0 text-center">Medical Prescription System</h1>
+        </div>
+
+        <div class="d-flex align-items-center h-custom-2 px-md-5 mt-2 mt-md-5 pt-3 pt-md-0 mt-xl-n5">
+          <form class="" style="width: clamp(20rem, 32vw, 36rem);">
+
+            <h3 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">User Registration</h3>
+
+            <div class="d-block d-xl-flex gap-2 justify-content-between">
+                <div class="form-outline mb-2">
+                    <input type="text" id="name" name="name" class="form-control form-control-lg" required />
+                    <label class="form-label" for="name">Full Name</label>
+                </div>
+
+                <div class="form-outline mb-2">
+                    <input type="email" id="email" name="email" class="form-control form-control-lg" required />
+                    <label class="form-label" for="email">Email Address</label>
+                </div>
+            </div>
+
+            <div class="form-outline mb-2">
+              <textarea id="address" name="address" class="form-control form-control-lg" rows="3" required></textarea>
+              <label class="form-label" for="address">Address</label>
+            </div>
+
+            <div class="form-outline mb-2">
+              <input type="tel" id="contact" name="contact" class="form-control form-control-lg" required />
+              <label class="form-label" for="contact">Contact Number</label>
+            </div>
+
+            <div class="form-outline mb-2">
+              <input type="date" id="dob" name="dob" class="form-control form-control-lg" required />
+              <label class="form-label" for="dob">Date of Birth</label>
+            </div>
+
+            <div class="pt-1 mb-4 d-flex d-md-block">
+              <button type="submit" class="btn btn-success btn-lg btn-block m-auto">Register</button>
+            </div>
+
+            <p class="small mb-5 pb-lg-2 text-center text-md-start">
+              Already have an account? <a class="text-muted" href="login">Login here</a>
+            </p>
+
+          </form>
+        </div>
+
+      </div>
+      <div class="col-md-6 px-0 d-none d-md-block">
+        <img src="assets/images/login-image.jpg"
+          alt="Registration image" class="w-100 vh-100 object-fit-cover object-position-center">
+      </div>
+    </div>
+  </div>
+</section>
+@endinlet

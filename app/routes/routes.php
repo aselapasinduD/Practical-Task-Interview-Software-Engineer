@@ -16,7 +16,9 @@ $router->get("/", function(){
     return;
 });
 
+// Get
 $router->get("/login", "view@Users>Login");
+$router->get("/registration", "view@Users>Registration");
 
 $router->get("/dashboard", "view@Admin>Dashboard");
 $router->get("/mainlayout", "view@MainLayout");
